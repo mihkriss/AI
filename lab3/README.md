@@ -453,5 +453,3 @@ Loss=0.5869113474165725, accuracy=0.7166666666666667:
 
 Test accuracy = 0.7333333333333333
 ```
-### Ссылка на фреймворк на github
-https://github.com/niciki/neuro-framework
